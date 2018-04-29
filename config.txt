@@ -1,0 +1,5 @@
+filename = bunny.txt
+outputFilename = HW3_60647003S.ppm
+eye2Canvas = 0.5
+tracingDepth = 2
+threadNum = 0
